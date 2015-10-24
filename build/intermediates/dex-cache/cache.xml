@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/silva/StudioProjects/PapitaUA/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/silva/StudioProjects/PapitaUA/app/build/intermediates/pre-dexed/release/internal_impl-23.0.1-22395d3f9f25e2f9d6fd19ac9345a44309b53645.jar" />
+    </item>
+    <item
+        jar="/home/silva/StudioProjects/PapitaUA/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/silva/StudioProjects/PapitaUA/app/build/intermediates/pre-dexed/release/classes-c5afd9c599c307716d8ded67c339f4d898c31932.jar" />
+    </item>
+    <item
+        jar="/home/silva/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/silva/StudioProjects/PapitaUA/app/build/intermediates/pre-dexed/release/support-annotations-23.0.1-25bd084d8f0d2c05ea336ab5181d077ace4d4667.jar" />
+    </item>
+    <item
+        jar="/home/silva/StudioProjects/PapitaUA/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/silva/StudioProjects/PapitaUA/app/build/intermediates/pre-dexed/release/classes-6ed74f68747ccb6731fd8e24d8b6d8451749d1eb.jar" />
+    </item>
+
+</items>
